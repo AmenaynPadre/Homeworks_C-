@@ -4,7 +4,16 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string str = "20";
+            int x = int.Parse(str);
+            Console.WriteLine(x);
+
+            string str1 = "10a0";
+            int num;
+            Console.WriteLine(int.TryParse(str1,out num));
+            Console.WriteLine(num);
+
+
         }
     }
 }

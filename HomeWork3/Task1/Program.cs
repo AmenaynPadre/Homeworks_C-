@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int x = 10;
+            double y = 20.2d;
+            //x = y; // error
+            y = x;
+            Console.WriteLine(y);
         }
     }
 }
