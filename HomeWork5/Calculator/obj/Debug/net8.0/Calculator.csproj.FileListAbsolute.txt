@@ -1,0 +1,15 @@
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork5\Calculator\obj\Debug\net8.0\ref\Calculator.dll
