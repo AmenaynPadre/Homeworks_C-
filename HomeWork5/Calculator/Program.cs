@@ -47,8 +47,9 @@
             else
             {
                 Console.WriteLine("InValid operator");
-                Console.WriteLine(y);
+
                 char x = char.Parse(y.Substring(0, 1));
+
                 if (x.Equals('+'))
                 {
                     double result3 = firsInput + secondInput;
