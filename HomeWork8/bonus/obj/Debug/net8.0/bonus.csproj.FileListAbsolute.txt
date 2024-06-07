@@ -1,0 +1,15 @@
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\bin\Debug\net8.0\bonus.exe
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\bin\Debug\net8.0\bonus.deps.json
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\bin\Debug\net8.0\bonus.runtimeconfig.json
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\bin\Debug\net8.0\bonus.dll
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\bin\Debug\net8.0\bonus.pdb
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\obj\Debug\net8.0\bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\obj\Debug\net8.0\bonus.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\obj\Debug\net8.0\bonus.AssemblyInfo.cs
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\obj\Debug\net8.0\bonus.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\obj\Debug\net8.0\bonus.sourcelink.json
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\obj\Debug\net8.0\bonus.dll
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\obj\Debug\net8.0\refint\bonus.dll
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\obj\Debug\net8.0\bonus.pdb
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\obj\Debug\net8.0\bonus.genruntimeconfig.cache
+C:\Users\narek\source\repos\HomeworksSolution\HomeWork8\bonus\obj\Debug\net8.0\ref\bonus.dll
