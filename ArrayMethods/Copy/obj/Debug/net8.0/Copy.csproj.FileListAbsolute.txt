@@ -1,0 +1,15 @@
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\bin\Debug\net8.0\Copy.exe
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\bin\Debug\net8.0\Copy.deps.json
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\bin\Debug\net8.0\Copy.runtimeconfig.json
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\bin\Debug\net8.0\Copy.dll
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\bin\Debug\net8.0\Copy.pdb
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\obj\Debug\net8.0\Copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\obj\Debug\net8.0\Copy.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\obj\Debug\net8.0\Copy.AssemblyInfo.cs
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\obj\Debug\net8.0\Copy.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\obj\Debug\net8.0\Copy.sourcelink.json
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\obj\Debug\net8.0\Copy.dll
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\obj\Debug\net8.0\refint\Copy.dll
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\obj\Debug\net8.0\Copy.pdb
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\obj\Debug\net8.0\Copy.genruntimeconfig.cache
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\Copy\obj\Debug\net8.0\ref\Copy.dll

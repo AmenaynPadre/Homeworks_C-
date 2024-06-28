@@ -1,0 +1,15 @@
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\bin\Debug\net8.0\IndexOf.exe
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\bin\Debug\net8.0\IndexOf.deps.json
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\bin\Debug\net8.0\IndexOf.runtimeconfig.json
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\bin\Debug\net8.0\IndexOf.dll
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\bin\Debug\net8.0\IndexOf.pdb
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\obj\Debug\net8.0\IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\obj\Debug\net8.0\IndexOf.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\obj\Debug\net8.0\IndexOf.AssemblyInfo.cs
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\obj\Debug\net8.0\IndexOf.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\obj\Debug\net8.0\IndexOf.sourcelink.json
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\obj\Debug\net8.0\IndexOf.dll
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\obj\Debug\net8.0\refint\IndexOf.dll
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\obj\Debug\net8.0\IndexOf.pdb
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\obj\Debug\net8.0\IndexOf.genruntimeconfig.cache
+C:\Users\narek\source\repos\HomeworksSolution\ArrayMethods\IndexOf\obj\Debug\net8.0\ref\IndexOf.dll
